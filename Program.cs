@@ -22,6 +22,8 @@ namespace from_Hex_to_Dec
                 Console.Write(leftOver);
                 number = number / 2;
                 Console.WriteLine(" ");
+                Console.ReadLine();
+                string github = "kddk";
             }
 
         }
